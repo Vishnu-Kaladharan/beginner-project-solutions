@@ -10,7 +10,7 @@ def song(n) :
 
     print(str(n) + " " + obj_1 + " of beer on the wall, " + str(n) + " " + obj_1 + " of beer.")
     print("Take one down and pass it around, " + str(n-1) + " " + obj_2 +" of beer on the wall.")
-#print("Sample")
+
 bottles = 99
 while bottles > 0 :
     song(bottles)
